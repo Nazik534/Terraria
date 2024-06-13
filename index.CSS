@@ -1,0 +1,126 @@
+body {
+    font-family: sans-serif;
+    background-color: #8E5E15;
+}
+<head>
+   <meta charset="utf-8">
+   <title>Тег LINK</title>  
+   <link rel="stylesheet" href="ie.css">
+  </head> 
+p,h1,td{
+color:white;    
+}
+div{
+text-align: center;    
+}
+table{
+background-color: #B48235;   
+border:3px solid black ; 
+font-size: 28px;
+}
+header{
+background-color:#422800 ;    
+}
+nav {
+margin:25px;
+text-align:center;
+}
+a {
+text-align:center;
+text-decoration:none;
+border-radius:1000000px;
+margin:10px;
+padding:15px;
+color:black;
+border: 5px solid white;
+background-color: #B48235;
+}
+a:hover {
+text-align:center;
+text-decoration:none;
+border-radius:1000000px;
+margin:10px;
+padding:15px;
+color:black;
+border: 5px solid white;
+background-color: #422800;
+color: white;
+}
+.coin{
+width:20px;
+height:20px;   
+}
+.lin{   
+text-align: center;
+position: relative;
+background-color: #B48235;
+border:3px solid black ; 
+color: white;
+width:400px;
+height: 230px;
+text-align: center;
+margin-bottom: 15px;}
+.line{
+
+background-color: #B48235;
+border:3px solid black ; 
+color: white;
+width:500px;
+height: 4000px;
+text-align: center;
+margin-bottom: 15px;
+}
+.linee{
+
+background-color: #B48235;
+border:3px solid black ; 
+color: white;
+width:525px;
+height: 350px;
+text-align: center;
+margin-bottom: 15px;}
+.line{
+
+background-color: #B48235;
+border:3px solid black ; 
+color: white;
+width:650px;
+height: 300px;
+text-align: center;
+margin-bottom: 15px;
+}
+iframe{
+width:500px;
+height: 250px;
+text-align: center;
+}
+.liner{
+
+background-color: #B48235;
+border:3px solid black ; 
+color: white;
+width:650px;
+height: 620px;
+text-align: center;
+margin-bottom: 15px;
+}
+}
+img{
+width: 301px;
+height: 147px;    
+}
+.lin img{
+width: 150px;
+height: 50px;  
+float: inline-start; 
+padding:5px; 
+}
+.hroper{
+width:50px;
+height:50px;
+border-radius:30px;    
+}
+h1 {
+text-align:center;
+top:50px;    
+}
