@@ -2,11 +2,7 @@ body {
     font-family: sans-serif;
     background-color: #8E5E15;
 }
-<head>
-   <meta charset="utf-8">
-   <title>Тег LINK</title>  
-   <link rel="stylesheet" href="ie.css">
-  </head> 
+
 p,h1,td{
 color:white;    
 }
